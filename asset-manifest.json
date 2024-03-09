@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DevBlend/static/css/main.595d633a.css",
+    "main.js": "/DevBlend/static/js/main.658e0a65.js",
+    "static/js/592.0cefe781.chunk.js": "/DevBlend/static/js/592.0cefe781.chunk.js",
+    "index.html": "/DevBlend/index.html",
+    "main.595d633a.css.map": "/DevBlend/static/css/main.595d633a.css.map",
+    "main.658e0a65.js.map": "/DevBlend/static/js/main.658e0a65.js.map",
+    "592.0cefe781.chunk.js.map": "/DevBlend/static/js/592.0cefe781.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595d633a.css",
+    "static/js/main.658e0a65.js"
+  ]
+}
